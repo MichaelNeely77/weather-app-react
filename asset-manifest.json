@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/weatyher-app-react/static/css/main.39b6787a.chunk.css",
+    "main.js": "/weatyher-app-react/static/js/main.c9717038.chunk.js",
+    "main.js.map": "/weatyher-app-react/static/js/main.c9717038.chunk.js.map",
+    "runtime-main.js": "/weatyher-app-react/static/js/runtime-main.a7172b27.js",
+    "runtime-main.js.map": "/weatyher-app-react/static/js/runtime-main.a7172b27.js.map",
+    "static/js/2.38222fd8.chunk.js": "/weatyher-app-react/static/js/2.38222fd8.chunk.js",
+    "static/js/2.38222fd8.chunk.js.map": "/weatyher-app-react/static/js/2.38222fd8.chunk.js.map",
+    "index.html": "/weatyher-app-react/index.html",
+    "precache-manifest.3f7da72e59a8e8c57805d694fa3df998.js": "/weatyher-app-react/precache-manifest.3f7da72e59a8e8c57805d694fa3df998.js",
+    "service-worker.js": "/weatyher-app-react/service-worker.js",
+    "static/css/main.39b6787a.chunk.css.map": "/weatyher-app-react/static/css/main.39b6787a.chunk.css.map",
+    "static/js/2.38222fd8.chunk.js.LICENSE": "/weatyher-app-react/static/js/2.38222fd8.chunk.js.LICENSE",
+    "static/media/index.css": "/weatyher-app-react/static/media/warm-weather.a5ba04c8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7172b27.js",
+    "static/js/2.38222fd8.chunk.js",
+    "static/css/main.39b6787a.chunk.css",
+    "static/js/main.c9717038.chunk.js"
+  ]
+}
